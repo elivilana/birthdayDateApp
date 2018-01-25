@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 15px;
+    font-weight: normal;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+div {
+    text-align: center;
+}
+
+.welcomeImg {
+    /* The image used */
+    background-image: url("img/confeti.jpg");
+    /* Full height */
+    height: 600px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.newDateButton {
+    color: #fff;
+    border: none;
+    background-color: #1abc9c;
+    padding: 15px;
+    font-weight: bold;
+    outline: none;
+}
